@@ -1,1 +1,3 @@
 command to create a new app - npx create-expo-app (appname) 
+
+command to open in vs code - code .
