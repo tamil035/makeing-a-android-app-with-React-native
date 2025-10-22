@@ -3,5 +3,5 @@ command to create a new app - npx create-expo-app (appname)
 command to open in vs code - code .
 
 run to test the app open terminal on vs code use this command
-     npx expo start
+     npx expo start    //if the command not work make sure ur in that folder  on terminal "cd"
 it will generate a qr code scan with " Expo Go " app
